@@ -16,5 +16,17 @@ Essa é a introdução do trabalho.
 4. D
 
 ## Figura
-<img scr="https://superlegalbrinquedos.vtexassets.com/arquivos/ids/219573/MATGTP08-HLB20---Figura-Articulada---Minecraft---Gato-Branco---Vanilla---Mattel-2.jpg?v=638241842661770000" alt="Exemplo de Imagem" width="300">
+<img scr="https://www.petz.com.br/blog/wp-content/uploads/2017/04/comportamento-dos-gatos-1.jpg" alt="Exemplo de Imagem" width="300">
+
+## Negrito e itálico
+
+**Negrito**
+*Italico*
+
+# Tabelas
+
+| Cabeçalho 1 | Cabeçalho 2|
+|-------------|------------|
+| Linha 1, C1 | Linha 1, C2|
+| Linha 2, C1 | Linha 2, C2|
 
